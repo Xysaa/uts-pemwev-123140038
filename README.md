@@ -1,13 +1,13 @@
-# Nama Proyek Anda (ganti ini)
+# Nama Proyek Anda (The Met Explorer)
 
-**Nama:** [Nama Lengkap Anda]
-**NIM:** [NIM Anda]
+**Nama:** [Stevanus Cahya Anggara]
+**NIM:** [123140038]
 
 ---
 
 ## 1. Deskripsi Project
 
-[Tuliskan deskripsi singkat namun jelas tentang proyek Anda di sini. Jelaskan apa tujuan aplikasi ini, teknologi apa yang digunakan (React, Vite, Tailwind CSS, The Met API), dan apa saja fitur utamanya.]
+[Web ini bernama The Met Explorer diambil dari nama API nya yaitu metmuseum, tujuan pengembangannya adalah sebagai penyedia akses informasi museum, Teknologi yang digunakan adalah React + Vite dengan TailwindCSS dan API metmuseum. Fitur utamanya adalah pengguna dapat mencari berbagai jenis art yang ada di API metmuseum, pengguna dapat melihat detailnya, menambahkannya kedalam menu favorit (disimpan dengan localStorage) , dan mengakses detail lebih lengkapnya melalui link yang tersedia pada detail.]
 
 ---
 
@@ -23,8 +23,8 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan proyek secara lokal:
 
 1.  **Clone repositori:**
     ```bash
-    git clone [https://github.com/username/repo-name.git](https://github.com/username/repo-name.git)
-    cd repo-name
+    git clone [https://github.com/Xysaa/uts-pemweb-123140038](https://github.com/Xysaa/uts-pemweb-123140038)
+    cd uts-pemweb-123140038
     ```
 
 2.  **Instal dependensi:**
@@ -45,19 +45,17 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan proyek secara lokal:
 
 Aplikasi ini telah di-deploy dan dapat diakses melalui link berikut:
 
-[**LINK DEPLOYMENT ANDA**] (Ganti ini dengan URL Vercel/Netlify/dll. Anda)
+[**LINK DEPLOYMENT ANDA**] (https://uts-pemweb-123140038.vercel.app/)
 
 ---
 
 ## 4. Screenshot Aplikasi
 
 ### Halaman Utama (Pencarian)
-![Screenshot Halaman Utama](link-ke-screenshot-utama.png)
+![Screenshot Halaman Utama](https://github.com/user-attachments/assets/c435f332-fcea-4c7e-9678-03c200348f64)
 
 ### Halaman Detail Karya Seni
-![Screenshot Halaman Detail](link-ke-screenshot-detail.png)
+![Screenshot Halaman Detail](https://github.com/user-attachments/assets/970a9e1d-ab17-4e96-8249-5b966a23a29e)
 
 ### Halaman Favorit
-![Screenshot Halaman Favorit](link-ke-screenshot-favorit.png)
-
-*(**Catatan:** Ganti `link-ke-screenshot-xxx.png` dengan path atau URL ke gambar screenshot Anda. Anda bisa mengunggahnya ke repositori GitHub Anda dan menautkannya langsung).*
+![Screenshot Halaman Favorit](https://github.com/user-attachments/assets/e8ad1e53-865b-4fb2-bf38-b9d553b9c9a3)
