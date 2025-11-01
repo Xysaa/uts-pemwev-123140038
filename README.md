@@ -1,13 +1,13 @@
-# Nama Proyek Anda (The Met Explorer)
+# The Met Explorer
 
-**Nama:** [Stevanus Cahya Anggara]
-**NIM:** [123140038]
+**Nama:** Stevanus Cahya Anggara
+**NIM:** 123140038
 
 ---
 
 ## 1. Deskripsi Project
 
-[Web ini bernama The Met Explorer diambil dari nama API nya yaitu metmuseum, tujuan pengembangannya adalah sebagai penyedia akses informasi museum, Teknologi yang digunakan adalah React + Vite dengan TailwindCSS dan API metmuseum. Fitur utamanya adalah pengguna dapat mencari berbagai jenis art yang ada di API metmuseum, pengguna dapat melihat detailnya, menambahkannya kedalam menu favorit (disimpan dengan localStorage) , dan mengakses detail lebih lengkapnya melalui link yang tersedia pada detail.]
+Web ini bernama The Met Explorer diambil dari nama API nya yaitu metmuseum, tujuan pengembangannya adalah sebagai penyedia akses informasi museum, Teknologi yang digunakan adalah React + Vite dengan TailwindCSS dan API metmuseum. Fitur utamanya adalah pengguna dapat mencari berbagai jenis art yang ada di API metmuseum, pengguna dapat melihat detailnya, menambahkannya kedalam menu favorit (disimpan dengan localStorage) , dan mengakses detail lebih lengkapnya melalui link yang tersedia pada detail.
 
 ---
 
@@ -23,7 +23,7 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan proyek secara lokal:
 
 1.  **Clone repositori:**
     ```bash
-    git clone [https://github.com/Xysaa/uts-pemweb-123140038](https://github.com/Xysaa/uts-pemweb-123140038)
+    git clone https://github.com/Xysaa/uts-pemweb-123140038
     cd uts-pemweb-123140038
     ```
 
@@ -45,7 +45,7 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan proyek secara lokal:
 
 Aplikasi ini telah di-deploy dan dapat diakses melalui link berikut:
 
-[**LINK DEPLOYMENT ANDA**] (https://uts-pemweb-123140038.vercel.app/)
+[**LINK DEPLOYMENT**] (https://uts-pemweb-123140038.vercel.app/)
 
 ---
 
